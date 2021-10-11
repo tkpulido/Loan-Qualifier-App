@@ -1,0 +1,444 @@
+   50  mv sample.text sample.txt
+   51  mv sample.text test
+   52  touch sample.txt
+   53  cd test
+   54  ls
+   55  cd Desktop
+   56  mkdir test
+   57  touch sample.txt
+   58  cd test
+   59  ls
+   60  cd ..
+   61  mv sample.txt test
+   62  cd test
+   63  ls
+   64  mv/Users/tristenpulido/Desktop/test/example.txt 
+   65  ls
+   66  mv/Users/tristenpulido/Desktop/test/sample.txt /Users/tristenpulido/Desktop/test/example.txt 
+   67  ls
+   68  mv /Users/tristenpulido/Desktop/test/sample.txt /Users/tristenpulido/Desktop/test/example.txt 
+   69  cd Desktop
+   70  git clone git@github.com:tkpulido/codingdemo.git
+   71  mkdir ~/git
+   72  cd ~/git
+   73  git clone git@github.com:tkpulido/codingdemo.git
+   74  cd Desktop
+   75  cd Desktop
+   76  mkdir ~/git
+   77  cd ~/git
+   78  git clone git@github.com:tkpulido/codingdemo.git
+   79  cd Desktop
+   80  cd
+   81  git clone git@github.com:tkpulido/condingdemo.git
+   82  cd Desktop
+   83  git clone git@github.com:tkpulido/codingdemo.git
+   84  open.
+   85  open .
+   86  mkdir git
+   87  cd git
+   88  git clone git@github.com:tkpulido/codingdemo.git
+   89  git clone git@github.com:tkpulido/codingdemo.git
+   90  cd git
+   91  ls -al ~/ .ssh
+   92  ssh-keygen -t rsa -b 4096 -C "tristenpulido@gmail.com"
+   93  ssh-keygen -t rsa -b 4096 -C "tristenpulido@gmail.com"
+   94  ssh-keygen -t rsa -b 4096 -C "tristenpulido@gmail.com"
+   95  eval "$(ssh-agent -s)"
+   96  ssh-add ~/.ssh/id_rsa
+   97  ssh-keygen -t rsa -b 4096 -C "tristenpulido@gmail.com"
+   98  eval "$(ssh-agent -s)"
+   99  ssh-add ~/.ssh/id_rsa
+  100  ssh-add ~/.ssh/id_rsa
+  101  ssh-keygen -t rsa -b 4096 -C "tristenpulido@gmail.com"
+  102  eval "$(ssh-agent -s)"
+  103  ssh-add ~/.ssh/id_rsa
+  104  pbcopy < ~/.ssh/id_rsa.pub
+  105  ssh -Tgit@github.com
+  106  ssh -T git@github.com
+  107  cd git
+  108  git clone git@github.com:tkpulido/codingdemo.git
+  109  cd codingdemo
+  110  open ..
+  111  cd codingdemo
+  112  ls
+  113  git add .
+  114  git commit -m "Added an index.html file"
+  115  git push orgin main
+  116  git add -A
+  117  git commit -m "Added an index.html file"
+  118  git push origin master
+  119  git push origin main
+  120  git checkout -b header
+  121  git add -A
+  122  git commit -m "Adds a header to index.html"
+  123  git push origin header
+  124  git add -A
+  125  git commit -m "Adds a header to index.html"
+  126  git push origin header
+  127  git checkout main
+  128  git pull
+  129  conda activate dev
+  130  jupyter lab
+  131  conda deactivate
+  132  conda activate dev
+  133  jupyter lab
+  134  conda deactivate
+  135  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  136  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  137  cd ucb-virt-fin-pt-09-2021-u-b
+  138  python variables-01.py
+  139  python variables-01.py
+  140   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 59312 -- /Users/tristenpulido/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  141  cd FinTech_Workspace
+  142  ls
+  143  cd Desktop
+  144  cd FinTech_Workspace
+  145  cd FinTech-Workspace
+  146  ls
+  147  cd Python_Project
+  148  ls
+  149  conda activate dev
+  150  python --version
+  151  code .
+  152  python hello_python.py
+  153  python hello_python.py
+  154  conda deactivate
+  155  cd Desktop
+  156  code .
+  157  ls
+  158  cd ..
+  159  cd ..
+  160  cd Downlods
+  161  cd Downloads
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd Downloads
+  166  ls
+  167  cd 01_Hello_Variable_World
+  168  ls
+  169  cd Unsolved
+  170  ls
+  171  python hello_varibale_world.py
+  172  python hello_variable_world.py
+  173  python hello_variable_world.py
+  174  python hello_variable_world.py
+  175  python hello_variabel_world.py
+  176  conda activate dev
+  177  python hello_variable_world.py
+  178  ls
+  179  cd ..
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd 02_Listing_Assets
+  184  ls
+  185  cd unsolved
+  186  python listing_assets.py
+  187  python listing_assets.py
+  188  cd ..
+  189  cd ..
+  190  cd .
+  191  cd 03_The_401k_Shuffle
+  192  Unsolved
+  193  cd Unsolved
+  194  python the_401k_shuffle.py
+  195  python the_401k_shuffle.py
+  196  python the 401k_shuffle.py
+  197  python the_401k_shuffle.py
+  198  python the_401k_shuffle.py
+  199  python the_401k_shuffle.py
+  200  cd ..
+  201  cd ..
+  202  cd 01_Conditional_Statement
+  203  cd Unsolved
+  204  python conditional_statement.py
+  205  python conditional_statement.py
+  206  python conditional_statement.py
+  207  cd ..
+  208  cd ..
+  209  cd 02_Nested_Conditionals
+  210  cd Unsolved
+  211  python nested_conditionals.py
+  212  cd ..
+  213  cd ..
+  214  cd 03_Split_Second_Homebuying
+  215  cd Unsolved
+  216  python split_second_homebuying.py
+  217  python split_second_homebuying.py
+  218  python split_second_homebuying.py
+  219  cd .
+  220  cd .
+  221  cd ..
+  222  cd ..
+  223  cd 01_A_Definitive_Buy
+  224  cd Unsolved
+  225  python a_definitive_buy.py
+  226  python a_definitive_buy.py
+  227  cd ..
+  228  cd ..
+  229  cd 02_Returned_Goods
+  230  cd Unsolved
+  231  python returned_goods.py
+  232  python returned_goods.py
+  233  python returned_goods.py
+  234  python returned_goods.py
+  235  cd ..
+  236  cd ..
+  237  cd 03_Split_Second_Homebuying_Part_2
+  238  cd Unsolved
+  239  python split_second_part_2.py
+  240  python split_second_part_2.py
+  241  python split_second_part_2.py
+  242  python split_second_part_2.py
+  243  cd ..
+  244  cd ..
+  245  cd 01_Racking_Up_The_Profit
+  246  cd Unsolved
+  247  python racking_up_the_profit.py
+  248  python racking_up_the_profit.py
+  249  python racking_up_the_profit.py
+  250  python racking_up_the_profit.py
+  251  cd ..
+  252  cd ..
+  253  cd 02_Pathways_to_Success_Part_1
+  254  cd Unsolved
+  255  python pathways_to_success.py
+  256  python pathways_to_success.py
+  257  cd ..
+  258  cd ..
+  259  cd 03_Pathways_to_Success_Part_2
+  260  cd Unsolved
+  261  python pathways_to_success_part_2.py
+  262  python pathways_to_success_part_2.py
+  263  python pathways_to_success_part_2.py
+  264  cd ..
+  265  cd ..
+  266  cd 04_Automating_Equity_Rounds
+  267  cd Unsolved
+  268  cd ..
+  269  cd ..
+  270  cd ..
+  271  cd Desktop
+  272  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  273  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  274  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  275  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  276  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  277  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  278  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  279  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  280  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  281  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  282  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  283  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  284  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  285  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  286  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  287  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  288  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  289  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  290  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  291  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  292  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  293  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  294  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  295  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  296  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  297  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  298  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  299  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  300  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  301  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  302  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  303  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  304  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  305  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  306  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  307  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  308  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  309  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  310  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  311  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  312  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  313  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  314  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py
+  315   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 62076 -- /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py 
+  316   cd /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder ; /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 56537 -- /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/Starter_Code/loan_analyzer.py 
+  317  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/Module-1-Challenge-Folder/loan_analyzer.py
+  318  python loan_analyzer.py
+  319  python loan_analyzer.py
+  320  python loan_analyzer.py
+  321  conda activate dev
+  322  pip -V
+  323  pip freeze
+  324  pip install fire
+  325  pip install questionary
+  326  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  327  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  328  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  329  /usr/bin/python3 /Users/tristenpulido/Desktop/FinTech-Workspace/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  330  /usr/bin/python3 /Users/tristenpulido/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  331  /usr/bin/python3 /Users/tristenpulido/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  332   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63173 -- /Users/tristenpulido/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/data/app.py 
+  333   cd /Users/tristenpulido/Downloads/01_Loan_Qualifier_Financial_Calculations ; /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63225 -- /Users/tristenpulido/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py 
+  334   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63713 -- /Users/tristenpulido/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  335  conda activate dev
+  336   cd /Users/tristenpulido/Downloads/02_Loan_Qualifier_Filtering_Data ; /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 63722 -- /Users/tristenpulido/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py 
+  337  /usr/bin/python3 /Users/tristenpulido/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  338   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52932 -- /Users/tristenpulido/Desktop/cli.py 
+  339   cd /Users/tristenpulido/Desktop ; /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 52939 -- /Users/tristenpulido/Desktop/cli.py 
+  340  pip install fire
+  341  import fire
+  342  cd Unsolved
+  343  python app.py
+  344  python app.py
+  345  python app.py --credit_score=750
+  346  cd .
+  347  cd
+  348  ls
+  349  cd git
+  350  pip install questionary
+  351  python dialog.py
+  352  python dialog.py
+  353  python app.py --credit_score=750 --debt=5000 --income=20000
+  354  cd ..
+  355  cd ..
+  356  cd Downloads
+  357  cd 02_Adding_questionary_to_Loan_Qualifier
+  358  cd Unsolved
+  359  python app.py --credit_score=750 --debt=5000 --income=20000
+  360  python app.py
+  361  python app.py
+  362  python app.py
+  363  git config --list
+  364  cd
+  365  git config --global user.email tristenpulido@gmail.com
+  366  git config --list
+  367  cd Desktop
+  368  ls
+  369  cd FinTech-Workspace
+  370  git pull
+  371  cd Live-Lesson-Activities
+  372  cd ucb-virt-fin-pt-09-2021-u-b
+  373  cd Live-Lesson-Activities
+  374  git pull
+  375  pwd
+  376  cd 03-Financial-Analysis-Pandas
+  377  conda activate dev
+  378  jupyter lab
+  379  python dialog.py
+  380  python dialog.py
+  381  python app.py --credit_score=750 --debt=5000 --income=20000
+  382  cd ..
+  383  cd ..
+  384  cd Downloads
+  385  cd 02_Adding_questionary_to_Loan_Qualifier
+  386  cd Unsolved
+  387  python app.py --credit_score=750 --debt=5000 --income=20000
+  388  python app.py
+  389  python app.py
+  390  python app.py
+  391  git config --list
+  392  cd
+  393  git config --global user.email tristenpulido@gmail.com
+  394  git config --list
+  395  cd Desktop
+  396  ls
+  397  cd FinTech-Workspace
+  398  git pull
+  399  cd Live-Lesson-Activities
+  400  cd ucb-virt-fin-pt-09-2021-u-b
+  401  cd Live-Lesson-Activities
+  402  git pull
+  403  pwd
+  404  cd 03-Financial-Analysis-Pandas
+  405  conda activate dev
+  406  jupyter lab
+  407   /usr/bin/env /usr/bin/python3 /Users/tristenpulido/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60718 -- /Users/tristenpulido/Downloads/01_Import_Data/Practice.py 
+  408  jupyter lab
+  409  exit
+  410  ls
+  411  cd Module\ 3\ Lesson\ 1
+  412  python Practice.py
+  413  cd desktop
+  414  ls
+  415  cd FinTech-Practice
+  416  conda activate dev
+  417  jupyterlab
+  418  JupyterLab
+  419  jupyter lab
+  420  exit
+  421  conda activate dev
+  422  jupyter lab
+  423  cd ..
+  424  ls
+  425  cd ..
+  426  cd ..
+  427  cd 01
+  428  conda activate dev
+  429  jupyter lab
+  430  conda activate dev
+  431  python app.py
+  432  conda activate dev
+  433  python app.py
+  434  python app.py
+  435  conda activate dev
+  436  jupyter lab
+  437  cd ..
+  438  cd 02_Fix_Column_Headers
+  439  jupyter lab
+  440  cd ..
+  441  cd 02_Headerless_Horsemen
+  442  jupyter lab
+  443  cd ..
+  444  cd 03_Fix_Rows
+  445  jupyter lab
+  446  cd ..
+  447  cd 03_IPO_Excitement
+  448  jupyter lab
+  449  cd ..
+  450  cd 01-Missing_Data
+  451  jupyter lab
+  452  cd ..
+  453  cd 01_Missing_Money
+  454  jupyter lab
+  455  cd ..
+  456  cd 02_Dollars_and_Change
+  457  jupyter lab
+  458  cd ..
+  459  cd 01-Summary_Statistics
+  460  jupyter lab
+  461  cd ..
+  462  cd 01_Visualize_the_VIX
+  463  jupyter lab
+  464  cd ..
+  465  cd Starter_Code
+  466  cd loan_qualifier_app
+  467  git add app.py
+  468  cd ..
+  469  cd ..
+  470  cd ..
+  471  cd desktop
+  472  ls
+  473  mkdir Module-2-Challenge
+  474  ls
+  475  cd Module-2-Challenge
+  476  git clone https://github.com/tkpulido/Loan-Qualifier-App.git
+  477  cd Loan-Qualifier-App
+  478  git status
+  479  git add README.md
+  480  git status
+  481  git status
+  482  cd README.md
+  483  cd README.md
+  484  ls
+  485  git status
+  486  git commit
+  487  ls
+  488  cd Dektop
+  489  ls
+  490  cd Desktop
+  491  ls
+  492  cd Module-2-Challenge
+  493  ls
